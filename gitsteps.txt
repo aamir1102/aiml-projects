@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit of all folders"
+git remote add origin <URL_OF_YOUR_GITHUB_REPO>
+git branch -M main
+git push -u origin main
+
+
+
