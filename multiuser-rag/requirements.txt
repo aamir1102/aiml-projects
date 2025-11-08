@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+python-dotenv
+langchain-google-genai
+langchain-chroma
+ipykernel
+langchain-text-splitters

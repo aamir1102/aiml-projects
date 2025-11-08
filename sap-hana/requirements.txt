@@ -1,0 +1,8 @@
+langchain
+langchain-hana
+hdbcli
+langchain-google-genai
+ipykernel
+python-dotenv
+langchain-core
+langchain-community

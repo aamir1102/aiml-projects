@@ -1,0 +1,11 @@
+langgraph
+langchain-community
+langchain-text-splitters
+bs4
+langchain
+langchain-google-genai
+ipykernel
+langchain-chroma
+python-dotenv
+tiktoken
+pydantic
