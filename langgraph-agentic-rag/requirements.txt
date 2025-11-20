@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-classic
+pydantic
+langgraph
+ipykernel
+bs4
+langchain-google-genai
+langchain-text-splitters
+faiss-cpu
+python-dotenv
